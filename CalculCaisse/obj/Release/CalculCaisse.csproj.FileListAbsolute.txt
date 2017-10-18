@@ -1,0 +1,24 @@
+C:\wamp64\www\calculcaisse\CalculCaisse\bin\Release\Calcul Caisse.exe.config
+C:\wamp64\www\calculcaisse\CalculCaisse\obj\Release\Interop.AcroPDFLib.dll
+C:\wamp64\www\calculcaisse\CalculCaisse\obj\Release\AxInterop.AcroPDFLib.dll
+C:\wamp64\www\calculcaisse\CalculCaisse\obj\Release\CalculCaisse.csproj.ResolveComReference.cache
+C:\wamp64\www\calculcaisse\CalculCaisse\bin\Release\Calcul Caisse.exe.manifest
+C:\wamp64\www\calculcaisse\CalculCaisse\bin\Release\Calcul Caisse.application
+C:\wamp64\www\calculcaisse\CalculCaisse\bin\Release\Calcul Caisse.exe
+C:\wamp64\www\calculcaisse\CalculCaisse\bin\Release\Calcul Caisse.pdb
+C:\wamp64\www\calculcaisse\CalculCaisse\bin\Release\itextsharp.dll
+C:\wamp64\www\calculcaisse\CalculCaisse\bin\Release\itextsharp.xml
+C:\wamp64\www\calculcaisse\CalculCaisse\bin\Release\Interop.AcroPDFLib.dll
+C:\wamp64\www\calculcaisse\CalculCaisse\bin\Release\AxInterop.AcroPDFLib.dll
+C:\wamp64\www\calculcaisse\CalculCaisse\obj\Release\CalculCaisse.About.resources
+C:\wamp64\www\calculcaisse\CalculCaisse\obj\Release\CalculCaisse.Calcul.resources
+C:\wamp64\www\calculcaisse\CalculCaisse\obj\Release\CalculCaisse.MainFrm.resources
+C:\wamp64\www\calculcaisse\CalculCaisse\obj\Release\CalculCaisse.NewUpdate.resources
+C:\wamp64\www\calculcaisse\CalculCaisse\obj\Release\CalculCaisse.PDFViewer.resources
+C:\wamp64\www\calculcaisse\CalculCaisse\obj\Release\CalculCaisse.Properties.Resources.resources
+C:\wamp64\www\calculcaisse\CalculCaisse\obj\Release\CalculCaisse.csproj.GenerateResource.Cache
+C:\wamp64\www\calculcaisse\CalculCaisse\obj\Release\Calcul Caisse.exe.manifest
+C:\wamp64\www\calculcaisse\CalculCaisse\obj\Release\Calcul Caisse.application
+C:\wamp64\www\calculcaisse\CalculCaisse\obj\Release\Calcul Caisse.exe
+C:\wamp64\www\calculcaisse\CalculCaisse\obj\Release\Calcul Caisse.pdb
+C:\wamp64\www\calculcaisse\CalculCaisse\obj\Release\CalculCaisse.csprojResolveAssemblyReference.cache
