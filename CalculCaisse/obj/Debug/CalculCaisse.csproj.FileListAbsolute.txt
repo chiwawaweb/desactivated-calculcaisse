@@ -47,3 +47,28 @@ C:\vs\calculcaisse\CalculCaisse\bin\Debug\Interop.AcroPDFLib.dll
 C:\vs\calculcaisse\CalculCaisse\bin\Debug\AxInterop.AcroPDFLib.dll
 C:\vs\calculcaisse\CalculCaisse\obj\Debug\Calcul Caisse.exe.manifest
 C:\vs\calculcaisse\CalculCaisse\obj\Debug\Calcul Caisse.application
+C:\vs\desactivated-calculcaisse\CalculCaisse\bin\Debug\Calcul Caisse.exe.config
+C:\vs\desactivated-calculcaisse\CalculCaisse\bin\Debug\Calcul Caisse.exe.manifest
+C:\vs\desactivated-calculcaisse\CalculCaisse\bin\Debug\Calcul Caisse.application
+C:\vs\desactivated-calculcaisse\CalculCaisse\bin\Debug\Calcul Caisse.exe
+C:\vs\desactivated-calculcaisse\CalculCaisse\bin\Debug\Calcul Caisse.pdb
+C:\vs\desactivated-calculcaisse\CalculCaisse\bin\Debug\itextsharp.dll
+C:\vs\desactivated-calculcaisse\CalculCaisse\bin\Debug\itextsharp.xml
+C:\vs\desactivated-calculcaisse\CalculCaisse\bin\Debug\Interop.AcroPDFLib.dll
+C:\vs\desactivated-calculcaisse\CalculCaisse\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\vs\desactivated-calculcaisse\CalculCaisse\obj\Debug\CalculCaisse.csprojResolveAssemblyReference.cache
+C:\vs\desactivated-calculcaisse\CalculCaisse\obj\Debug\Interop.AcroPDFLib.dll
+C:\vs\desactivated-calculcaisse\CalculCaisse\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\vs\desactivated-calculcaisse\CalculCaisse\obj\Debug\CalculCaisse.csproj.ResolveComReference.cache
+C:\vs\desactivated-calculcaisse\CalculCaisse\obj\Debug\CalculCaisse.About.resources
+C:\vs\desactivated-calculcaisse\CalculCaisse\obj\Debug\CalculCaisse.Calcul.resources
+C:\vs\desactivated-calculcaisse\CalculCaisse\obj\Debug\CalculCaisse.MainFrm.resources
+C:\vs\desactivated-calculcaisse\CalculCaisse\obj\Debug\CalculCaisse.NewUpdate.resources
+C:\vs\desactivated-calculcaisse\CalculCaisse\obj\Debug\CalculCaisse.PDFViewer.resources
+C:\vs\desactivated-calculcaisse\CalculCaisse\obj\Debug\CalculCaisse.Properties.Resources.resources
+C:\vs\desactivated-calculcaisse\CalculCaisse\obj\Debug\CalculCaisse.csproj.GenerateResource.Cache
+C:\vs\desactivated-calculcaisse\CalculCaisse\obj\Debug\CalculCaisse.csproj.CoreCompileInputs.cache
+C:\vs\desactivated-calculcaisse\CalculCaisse\obj\Debug\Calcul Caisse.exe.manifest
+C:\vs\desactivated-calculcaisse\CalculCaisse\obj\Debug\Calcul Caisse.application
+C:\vs\desactivated-calculcaisse\CalculCaisse\obj\Debug\Calcul Caisse.exe
+C:\vs\desactivated-calculcaisse\CalculCaisse\obj\Debug\Calcul Caisse.pdb

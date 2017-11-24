@@ -29,7 +29,7 @@ namespace CalculCaisse
                 Assembly.GetExecutingAssembly().GetName().Version.Minor.ToString() + "." +
                 Assembly.GetExecutingAssembly().GetName().Version.Build.ToString();
             
-            this.Text = "Calcul caisse " + versionAppli;
+            this.Text += " " + versionAppli;
 
             // vérifie la dernière version en ligne
 
